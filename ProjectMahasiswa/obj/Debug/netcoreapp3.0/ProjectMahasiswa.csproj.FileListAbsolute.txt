@@ -1,0 +1,3 @@
+D:\responsiii\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\netcoreapp3.0\ProjectMahasiswa.csprojAssemblyReference.cache
+D:\responsiii\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\netcoreapp3.0\ProjectMahasiswa.AssemblyInfoInputs.cache
+D:\responsiii\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\netcoreapp3.0\ProjectMahasiswa.AssemblyInfo.cs
